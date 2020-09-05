@@ -3,6 +3,7 @@
 * e-mail: <knabinn97@gmail.com>
 * blog: [https://c1oud9.tistory.com](https://c1oud9.tistory.com, "BLOG")
 * portfolio: [view a pdf file (google drive)](https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing)
+* youtube: [link](https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g) (for demo videos)
 * * *
 
 ### 🎓 EDUCATION
