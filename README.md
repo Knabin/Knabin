@@ -9,7 +9,7 @@
 ### 🎓 EDUCATION
 #### Dongyang Mirae University   
 * Computer Information Engineering   
-* 2016.03 - 2018.02   
+* 2018.03 - 2020.02   
 
 #### Kyoungil Game Academy
 * Game Programming   
