@@ -1,7 +1,7 @@
 
 ### 😎 Knabin (Kim Nabin)
 * e-mail: <knabinn97@gmail.com>
-* blog: <a href="https://c1oud9.tistory.com" target="_blank">https://c1oud9.tistory.com
+* blog: <a href="https://c1oud9.tistory.com" target="_blank">https://c1oud9.tistory.com</a>
 * portfolio: <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">pdf file (google drive)</a>
 * youtube: <a href="https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g" target="_blank">link (for demo videos)</a>
 * * *
