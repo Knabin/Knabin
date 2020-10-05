@@ -2,7 +2,7 @@
 ### 😎 Knabin (Kim Nabin)
 * e-mail: <knabinn97@gmail.com>
 * blog: <a href="https://c1oud9.tistory.com" target="_blank">https://c1oud9.tistory.com</a>
-* portfolio: <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">pdf file (google drive)</a>
+* portfolio: <a href="https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing">pdf file (google drive)</a>
 * youtube: <a href="https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g" target="_blank">link (for demo videos)</a>
 * * *
 
@@ -19,6 +19,7 @@
 ### 🎮 PROJECT
 | project | environment |  |
 |-------|--------|-------|
+| <a href="https://github.com/Knabin/Moongazer" target="_blank">Moongazer</a> | C#, Unity, Visual Studio | 2020-10 |
 | <a href="https://github.com/Knabin/crosscode" target="_blank">Crosscode(team)</a> | C++, Visual Studio, WinAPI, Direct2D | 2020-08 (2 weeks) |
 | <a href="https://github.com/Knabin/mintchoco" target="_blank">River City Girls(team)</a> | C++, Visual Studio, WinAPI | 2020-07 (1 week) |
 | <a href="https://github.com/Knabin/Momodora" target="_blank">Momodora 3</a> | C++, Visual Studio, WinAPI | 2020-06 (1 week) |
