@@ -19,7 +19,7 @@
 ### 🎮 PROJECT
 | project | environment |  |
 |-------|--------|-------|
-| <a href="https://github.com/Knabin/Moongazer" target="_blank">Moongazer</a> | C#, Unity, Visual Studio | 2020-10 |
+| <a href="https://github.com/Knabin/Moongazer" target="_blank">Moongazer</a> | C#, Unity, Visual Studio | 2020-10 (1 week) |
 | <a href="https://github.com/Knabin/crosscode" target="_blank">Crosscode(team)</a> | C++, Visual Studio, WinAPI, Direct2D | 2020-08 (2 weeks) |
 | <a href="https://github.com/Knabin/mintchoco" target="_blank">River City Girls(team)</a> | C++, Visual Studio, WinAPI | 2020-07 (1 week) |
 | <a href="https://github.com/Knabin/Momodora" target="_blank">Momodora 3</a> | C++, Visual Studio, WinAPI | 2020-06 (1 week) |
