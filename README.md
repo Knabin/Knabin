@@ -6,6 +6,11 @@
 * youtube: <a href="https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g" target="_blank">link (for demo videos)</a>
 * * *
 
+### 💻 CAREER
+#### Wonder People Co.,Ltd.
+* Game Platform Client Developer
+* 2020.11 - 
+
 ### 🎓 EDUCATION
 #### Dongyang Mirae University   
 * Computer Information Engineering   
@@ -29,6 +34,10 @@
 + <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">and more... (google drive)</a>
 * * *
 ### 🌱 STUDY
+* modern C++ study - <a href="https://github.com/Knabin/Cpp-Study" target="_blank">github</a>
+
+
+
 | name | link | reference |
 |-------|--------|--------|
   | 레트로의 유니티 C# 게임 프로그래밍 에센스 | <a href="https://github.com/Knabin/Essence-Unity" target="_blank">github</a> | <a href="https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%90%EC%84%BC%EC%8A%A4" target="_blank">inflearn</a> |
