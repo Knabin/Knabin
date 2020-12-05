@@ -1,9 +1,11 @@
 
 ### 😎 Knabin (Kim Nabin)
-* e-mail: <knabinn97@gmail.com>
-* blog: <a href="https://c1oud9.tistory.com" target="_blank">https://c1oud9.tistory.com</a>
-* portfolio: <a href="https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing">pdf file (google drive)</a>
-* youtube: <a href="https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g" target="_blank">link (for demo videos)</a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnabin&count_bg=%23FF97D1&title_bg=%23555555&icon=icloud.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-CC0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knabinn97@gmail.com)](mailto:knabinn97@gmail.com) [![Blog](https://img.shields.io/badge/-Blog-FF6600?style=flat-square&logo=Blogger&logoColor=white&link=https://c1oud9.tistory.com)](https://c1oud9.tistory.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-0033CC?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing)](https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing) [![Youtube](http://img.shields.io/badge/-Youtube-FF3333?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)](https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)
+
+Contact me! <knabinn97@gmail.com>
+
 * * *
 
 ### 💻 CAREER
