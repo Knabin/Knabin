@@ -36,6 +36,8 @@ Contact me! <knabinn97@gmail.com>
 ### 🌱 STUDY
 * TIL (Today I Learned) - <a href="https://github.com/Knabin/Today-I-Learned" target="_blank">github</a>
 * modern C++ study - <a href="https://github.com/Knabin/Cpp-Study" target="_blank">github</a>
+* Python3 study - <a href="https://github.com/Knabin/Python-Study" target="_blank">github</a>
+
 
 
 
