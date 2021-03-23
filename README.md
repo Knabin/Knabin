@@ -5,6 +5,10 @@
 Contact me! <knabinn97@gmail.com>
 
 * * *
+### 🤩 Interests
+* C++, Unreal Engine 4, Rust, Python3
+
+* * *
 
 ### 💻 CAREER
 #### Wonder People Co.,Ltd.
