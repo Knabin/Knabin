@@ -38,7 +38,7 @@ Contact me! <knabinn97@gmail.com>
 + <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">and more... (google drive)</a>
 * * *
 ### 🌱 STUDY
-* TIL (Today I Learned) - <a href="https://github.com/Knabin/Today-I-Learned" target="_blank">github</a>
+* LeetCode - <a href="https://github.com/Knabin/LeetCode" target="_blank">github</a> <a href="https://leetcode.com/Knabin/" target="_blank">LeetCode</a>
 * modern C++ study - <a href="https://github.com/Knabin/Cpp-Study" target="_blank">github</a>
 * Python3 study - <a href="https://github.com/Knabin/Python-Study" target="_blank">github</a>
 
