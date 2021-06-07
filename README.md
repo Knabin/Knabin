@@ -6,7 +6,8 @@ Contact me! <knabinn97@gmail.com>
 
 * * *
 ### 🤩 Interests
-* C++, Unreal Engine 4, JavaScript, Electron, Python3
+* C++, Unreal Engine 4, C#, Unity
+* DirectX, Qt, JavaScript, Electron, Python3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knabin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
