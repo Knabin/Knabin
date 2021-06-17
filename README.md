@@ -24,9 +24,6 @@ Contact me! <knabinn97@gmail.com>
 * Computer Information Engineering   
 * 2018.03 - 2020.02   
 
-#### Kyoungil Game Academy
-* Game Programming   
-* 2020.05 - 2020.10   
 
 * * *
 ### 🎮 PROJECT
@@ -51,7 +48,7 @@ Contact me! <knabinn97@gmail.com>
 
 | name | link | reference |
 |-------|--------|--------|
-  | 레트로의 유니티 C# 게임 프로그래밍 에센스 | <a href="https://github.com/Knabin/Essence-Unity" target="_blank">github</a> | <a href="https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%90%EC%84%BC%EC%8A%A4" target="_blank">inflearn</a> |
+| 레트로의 유니티 C# 게임 프로그래밍 에센스 | <a href="https://github.com/Knabin/Essence-Unity" target="_blank">github</a> | <a href="https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%90%EC%84%BC%EC%8A%A4" target="_blank">inflearn</a> |
 | C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 #3 | <a href="https://github.com/Knabin/MMO-Unity" target="_blank">github</a> | <a href="https://www.inflearn.com/course/MMORPG-%EC%9C%A0%EB%8B%88%ED%8B%B0" target="_blank">inflearn</a> |
 | it 취업을 위한 알고리즘 문제풀이 (with C/C++) | <a href="https://github.com/Knabin/AlgorithmQ" target="_blank">github</a> | <a href="https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank">inflearn</a> |
 | 홍정모의 따라하며 배우는 C++ | <a href="https://github.com/Knabin/TBCppStudy" target="_blank">github</a> | <a href="https://www.inflearn.com/course/following-c-plus" target="_blank">inflearn</a> |
