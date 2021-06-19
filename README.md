@@ -9,7 +9,7 @@ Contact me! <knabinn97@gmail.com>
 * C++, Unreal Engine 4, C#, Unity
 * DirectX, Qt, JavaScript, Electron, Python3
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knabin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knabin&layout=compact&theme=dracula&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * * *
