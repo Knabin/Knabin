@@ -40,10 +40,13 @@ Contact me! <knabinn97@gmail.com>
 * * *
 ### 🌱 STUDY
 * LeetCode - <a href="https://github.com/Knabin/LeetCode" target="_blank">github</a> <a href="https://leetcode.com/Knabin/" target="_blank">LeetCode</a>
+* Programmers - <a href="https://github.com/Knabin/Programmers" target="_blank">github</a>
+* Baekjoon OJ - <a href="https://github.com/Knabin/Baekjoon" target="_blank">github</a>
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=btte02)](https://solved.ac/btte02)
+
 * modern C++ study - <a href="https://github.com/Knabin/Cpp-Study" target="_blank">github</a>
 * Python3 study - <a href="https://github.com/Knabin/Python-Study" target="_blank">github</a>
-
-
 
 
 | name | link | reference |
@@ -52,18 +55,3 @@ Contact me! <knabinn97@gmail.com>
 | C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 #3 | <a href="https://github.com/Knabin/MMO-Unity" target="_blank">github</a> | <a href="https://www.inflearn.com/course/MMORPG-%EC%9C%A0%EB%8B%88%ED%8B%B0" target="_blank">inflearn</a> |
 | it 취업을 위한 알고리즘 문제풀이 (with C/C++) | <a href="https://github.com/Knabin/AlgorithmQ" target="_blank">github</a> | <a href="https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank">inflearn</a> |
 | 홍정모의 따라하며 배우는 C++ | <a href="https://github.com/Knabin/TBCppStudy" target="_blank">github</a> | <a href="https://www.inflearn.com/course/following-c-plus" target="_blank">inflearn</a> |
-
-<!--
-**Knabin/Knabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
