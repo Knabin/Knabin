@@ -16,7 +16,7 @@ Contact me! <knabinn97@gmail.com>
 
 ### 💻 CAREER
 #### Wonder People Co.,Ltd.
-* Game Platform Client Developer
+* Global Game Platform **GeeGee** Client Developer
 * 2020.11 - 
 
 ### 🎓 EDUCATION
