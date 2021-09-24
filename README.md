@@ -1,6 +1,7 @@
 
 ### 😎 Knabin (Kim Nabin)
-[![Gmail](https://img.shields.io/badge/-Gmail-CC0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knabinn97@gmail.com)](mailto:knabinn97@gmail.com) [![Blog](https://img.shields.io/badge/-Blog-999900?style=flat-square&logo=Blogger&logoColor=white&link=https://c1oud9.tistory.com)](https://c1oud9.tistory.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-0033CC?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing)](https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing) [![Youtube](http://img.shields.io/badge/-Youtube-FF3333?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)](https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)
+[![Gmail](https://img.shields.io/badge/-Gmail-CC0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knabinn97@gmail.com)](mailto:knabinn97@gmail.com) [![Blog](https://img.shields.io/badge/-Blog-999900?style=flat-square&logo=Blogger&logoColor=white&link=https://c1oud9.tistory.com)](https://c1oud9.tistory.com) 
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-0033CC?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing)](https://drive.google.com/file/d/1wwasVJymUrUPVlNVyIFdFrW0Pc53b_Fx/view?usp=sharing) [![Youtube](http://img.shields.io/badge/-Youtube-FF3333?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)](https://www.youtube.com/channel/UC0vyJMjXLbB28_jPB-qCA1g)-->
 
 Contact me! <knabinn97@gmail.com>
 
@@ -36,7 +37,7 @@ Contact me! <knabinn97@gmail.com>
 | <a href="https://github.com/Knabin/Nanal-Calendar" target="_blank">Nanal Calender</a> | Java, JSP 2.3 + JSON, Android Studio, Eclipse, Brackets | 2019-03 ~ 2019-11 (9 months) |
   | <a href="https://github.com/Knabin/job-seeker-A" target="_blank">Job Seeker A</a> | Java, Android Studio | 2019-06 (1 week) |
 
-+ <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">and more... (google drive)</a>
+<!--+ <a href="https://drive.google.com/file/d/1AwVqMkkopVRMW0CpNrjIHZRnC7GJQqyJ/view?usp=sharing" target="_blank">and more... (google drive)</a>-->
 * * *
 ### 🌱 STUDY
 * LeetCode - <a href="https://github.com/Knabin/LeetCode" target="_blank">github</a> <a href="https://leetcode.com/Knabin/" target="_blank">LeetCode</a>
