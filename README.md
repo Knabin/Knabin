@@ -17,7 +17,7 @@ Contact me! <knabinn97@gmail.com>
 
 ### 💻 CAREER
 #### Wonder People Co.,Ltd.
-* Global Game Platform **GeeGee** Client Developer
+* Global Game Platform <a href="https://geegee.net" target="_blank"><b>GeeGee</b></a> Client Developer
 * 2020.11 - 
 
 ### 🎓 EDUCATION
