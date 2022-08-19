@@ -12,6 +12,9 @@ Contact me! <knabinn97@gmail.com>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knabin&layout=compact&theme=dracula&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=btte02)](https://solved.ac/btte02)
+
 
 * * *
 
