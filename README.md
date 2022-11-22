@@ -19,9 +19,12 @@ Contact me! <knabinn97@gmail.com>
 * * *
 
 ### 💻 CAREER
+#### NEXON Korea Corporation
+* 2022.12 -
+
 #### Wonder People Co.,Ltd.
 * Global Game Platform <a href="https://geegee.net" target="_blank"><b>GeeGee</b></a> Client Developer
-* 2020.11 - 
+* 2020.11 - 2022.11
 
 ### 🎓 EDUCATION
 #### Dongyang Mirae University   
