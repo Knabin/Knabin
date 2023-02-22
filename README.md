@@ -23,6 +23,6 @@ Contact me! <knabinn97@gmail.com>
 * 2022.12 -
 
 #### Wonder People Co.,Ltd.
-* Global Game Platform <a href="https://geegee.net" target="_blank"><b>GeeGee</b></a> Client Developer
+* Global Game Platform <b>GeeGee</b> Client Developer
 * 2020.11 - 2022.11
 
